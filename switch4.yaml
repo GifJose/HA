@@ -1,6 +1,6 @@
 blueprint:
   name: Moes Smart Zigbee Scene Switch
-  description: Automate your Moes 4 button Scene Switch remote using deCONZ events.
+  description: Automate Moes 4 button Scene Switch remote.
   domain: automation
   input:
     ts0044_8:
