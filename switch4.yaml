@@ -9,7 +9,6 @@ blueprint:
       selector:
         device:
           integration: tuya
-          device_id: bff626f90515c747d9gcdz
     button_one_single_press:
       name: Button 1 (single press)
       description: Action to run on button 1 single press
